@@ -23,6 +23,9 @@ jobs:
         with:
           node-version: ${{ matrix.node }}
 
+      - name: Clean up
+        run: rm -rf node_modules
+
       - name: Install dependencies
         run: npm install
 
