@@ -1,0 +1,35 @@
+.section {
+  margin-bottom: 15px;
+  margin: 0 0 20px;
+
+  .inner {
+    padding: 10px 0;
+  }
+
+  h1 {
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: -0.01em;
+    font-size: 40px;
+    margin-bottom: 5px;
+    color: #008c16;
+    text-align: left;
+  }
+}
+
+svg {
+  width : 40px;
+}
+span {
+  font-size: 40px;
+}
+
+.skill_icon {
+  margin: 0 12px 0 0;
+}
+.skill_level {
+  color: #000;
+}
+.skill_name {
+  margin: 0 12px 0 0;
+  font-size: 30px;
+}
