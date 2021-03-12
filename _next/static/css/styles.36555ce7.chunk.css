@@ -1,0 +1,173 @@
+@import url(https://fonts.googleapis.com/css?family=Abel|Kosugi+Maru|Dosis|Marmelad|Roboto+Condensed&display=swap);
+@import url(https://fonts.googleapis.com/earlyaccess/notosansjapanese.css);
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box; }
+
+body {
+  background-color: #e9ffe0; }
+
+.SiVY2ts9QZG0XLYMt4yYe {
+  margin-top: 65px;
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 1140px;
+  padding: 1rem 2rem; }
+
+._3oqlbSK8mw4h6F8AzR3uJQ {
+  margin-bottom: 15px; }
+  ._3oqlbSK8mw4h6F8AzR3uJQ ._VW_piBe-55GelxRRDJXe {
+    padding: 10px 0; }
+  ._3oqlbSK8mw4h6F8AzR3uJQ h1 {
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: -0.01em;
+    font-size: 40px;
+    margin-bottom: 5px;
+    color: #008c16;
+    text-align: left; }
+
+header {
+  margin: 0 auto;
+  max-width: 1140px;
+  padding: 1rem;
+  position: relative; }
+
+a {
+  text-decoration: none; }
+
+._1Msqa1kQnyGuI8NVi06YFK {
+  font-size: 1.5rem;
+  color: #474a54; }
+
+._1GsDs46FoFYA3ZyFITomTC {
+  float: right; }
+
+.cpOBAxM0ePjye-mil7_b9 li {
+  display: inline;
+  font-size: 1.2rem;
+  font-weight: 400; }
+
+li a {
+  color: #717688;
+  font-weight: bold;
+  box-shadow: -5px -5px 20px #FFF, 5px 5px 20px #9FC98D;
+  transition: all 0.2s ease-in-out;
+  cursor: pointer;
+  font-weight: 600;
+  border-radius: 10px;
+  padding: 10px;
+  font-size: 30px; }
+  li a:hover {
+    box-shadow: -2px -2px 5px #FFF, 2px 2px 5px #9FC98D; }
+  li a:active {
+    box-shadow: inset 1px 1px 2px #9FC98D, inset -1px -1px 2px #FFF; }
+  li a ._7Qd5wvLWOHGTVqeCbw4Gw {
+    margin-right: 8px; }
+  li a._2Ss8wiIoL4OvXvGWWE0jcj {
+    border-radius: 8px;
+    line-height: 0;
+    width: 48px;
+    height: 48px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 8px;
+    font-size: 19.2px; }
+    li a._2Ss8wiIoL4OvXvGWWE0jcj ._7Qd5wvLWOHGTVqeCbw4Gw {
+      margin-right: 0; }
+  li a._1qqH_3zFu91mgRHMGl4fJ4 {
+    display: block;
+    width: 100%;
+    color: #AE1100; }
+
+._29TYtCZqd4yVRllkGdCC66 {
+  margin-bottom: 15px; }
+  ._29TYtCZqd4yVRllkGdCC66 ._3XgGnJ9SnQOv4NQlNa3Ceq {
+    padding: 10px 0; }
+  ._29TYtCZqd4yVRllkGdCC66 h1 {
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: -0.01em;
+    font-size: 40px;
+    margin-bottom: 5px;
+    color: #008c16;
+    text-align: left; }
+
+ul, li {
+  list-style: none;
+  margin: 2px 5px;
+  font-size: 24px; }
+
+._1pdjg2MojJs0zxbsAImQnb {
+  margin: 30px 0;
+  font-family: "Abel"; }
+  ._1pdjg2MojJs0zxbsAImQnb img {
+    border-radius: 80px;
+    width: 160px;
+    border: solid #fff; }
+  ._1pdjg2MojJs0zxbsAImQnb ._3DlQ1vwdAdcFNd9eAAYHFZ {
+    margin: 15px 0;
+    font-size: 40px;
+    font-weight: bold; }
+  ._1pdjg2MojJs0zxbsAImQnb ._2tsBePfO19eHxUKLdFbETu {
+    font-size: 25px; }
+
+._2dorEKEi8QYsRo7aZMrRyQ {
+  margin-bottom: 15px; }
+  ._2dorEKEi8QYsRo7aZMrRyQ ._2IhGjoCi4vseiUTbyBJn0T {
+    padding: 10px 0;
+    max-width: 1320px;
+    width: 100%; }
+  ._2dorEKEi8QYsRo7aZMrRyQ h1 {
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: -0.01em;
+    font-size: 40px;
+    margin-bottom: 5px;
+    color: #008c16;
+    text-align: left; }
+
+._1FHfah79pz4IPkhk4MPuS3 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  justify-content: space-between; }
+  ._1FHfah79pz4IPkhk4MPuS3 ._3iEod-N-D5H1ZuEnM1_bV8 {
+    text-align: center; }
+
+@media screen and (max-width: 1200px) {
+  ._1FHfah79pz4IPkhk4MPuS3 {
+    flex-wrap: wrap;
+    justify-content: normal; }
+    ._1FHfah79pz4IPkhk4MPuS3 ._3iEod-N-D5H1ZuEnM1_bV8 {
+      margin-bottom: 20px; } }
+
+.gXRWRyTW_5xZ_hz6-p7_L {
+  margin-bottom: 15px;
+  margin: 0 0 20px; }
+  .gXRWRyTW_5xZ_hz6-p7_L ._1w-58J2V7Sp6hxt3vGtfj1 {
+    padding: 10px 0; }
+  .gXRWRyTW_5xZ_hz6-p7_L h1 {
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: -0.01em;
+    font-size: 40px;
+    margin-bottom: 5px;
+    color: #008c16;
+    text-align: left; }
+
+svg {
+  width: 40px; }
+
+span {
+  font-size: 40px; }
+
+._1OEjltF6iFtO_rS-otziSm {
+  margin: 0 12px 0 0; }
+
+._2HA3x2EPCDISeN9XCxwLOs {
+  color: #000; }
+
+._2rH-5h0xvyUuPmqa6suqIW {
+  margin: 0 12px 0 0;
+  font-size: 30px; }
+
