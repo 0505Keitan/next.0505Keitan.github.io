@@ -7,7 +7,9 @@ export default function Profile() {
       <nav className={styles.nav}>
         <ul className={styles.nav_list}>
           <li><a href="https://scrapbox.io/0505Keitan/index">About</a></li>
-          <li><a href="https://portfolio.0505keitan.now.sh/">Portfolio</a></li>
+          <li><a href="https://0505keitan.com/">Nuxt.js</a></li>
+          <li><a href="https://next.0505keitan.com/">Next.js</a></li>
+          <li><a href="https://jekyll.0505keitan.com/">Jekyll</a></li>
         </ul>
       </nav>
     </header>
